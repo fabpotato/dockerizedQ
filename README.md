@@ -1,2 +1,3 @@
 # dockerizedQ
-Varieties of docker files that can be used to containerise kdb/q application with examples 
+
+Containerising a standard kdb/q tick setup 
